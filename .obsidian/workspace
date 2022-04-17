@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "a9516bd110772275",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e72a60eb3952b3f",
+        "type": "leaf",
+        "dimension": 45.07936507936508,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "34deb1a1aa5949cd",
+        "type": "leaf",
+        "dimension": 54.92063492063492,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765c065b7334dfc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12b9dc0c6fdb3e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f41f7dc0b4750bc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "07fcef9aa77232d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98509be14b265bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "de417f9defe347b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18837511c65396df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "34deb1a1aa5949cd",
+  "lastOpenFiles": [
+    "README.md",
+    "Текст о мире.md",
+    "Мир.md",
+    "Не-ангелы.md",
+    "персонажи/Наемник.md",
+    "персонажи/Ангел (возлюбленная парня).md",
+    "Персонажи.md",
+    "персонажи/Парень.md",
+    "Ангелы.md",
+    "персонажи/ГГ.md"
+  ]
+}
