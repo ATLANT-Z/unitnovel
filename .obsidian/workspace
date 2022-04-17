@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Перья.md",
+            "file": "Текст о мире.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Перья.md",
+                "file": "Текст о мире.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +100,14 @@
   },
   "active": "34deb1a1aa5949cd",
   "lastOpenFiles": [
+    "Текст о мире.md",
+    "Мир.md",
     "Перья.md",
     "Ангелы.md",
     "README.md",
     "media/Pero.png",
     "Скрипт.js.md",
     "Чернила.md",
-    "Текст о мире.md",
-    "Мир.md",
     "Не-ангелы.md",
     "персонажи/Наемник.md"
   ]
