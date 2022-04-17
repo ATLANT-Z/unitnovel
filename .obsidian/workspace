@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Перья.md",
+            "file": "Скрипт.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Перья.md",
+                "file": "Скрипт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "34deb1a1aa5949cd",
   "lastOpenFiles": [
+    "Скрипт.md",
     "Перья.md",
     "Чернила.md",
     "медиа/Перо.png",
@@ -108,7 +109,6 @@
     "Текст о мире.md",
     "Мир.md",
     "Не-ангелы.md",
-    "персонажи/Наемник.md",
-    "персонажи/Ангел (возлюбленная парня).md"
+    "персонажи/Наемник.md"
   ]
 }
