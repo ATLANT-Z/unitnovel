@@ -6,7 +6,7 @@
       {
         "id": "6e72a60eb3952b3f",
         "type": "leaf",
-        "dimension": 45.07936507936508,
+        "dimension": 50.39682539682539,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -17,11 +17,11 @@
       {
         "id": "34deb1a1aa5949cd",
         "type": "leaf",
-        "dimension": 54.92063492063492,
+        "dimension": 49.60317460317461,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Перья.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Перья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "34deb1a1aa5949cd",
   "lastOpenFiles": [
+    "Перья.md",
+    "Чернила.md",
+    "медиа/Перо.png",
     "README.md",
+    "Ангелы.md",
     "Текст о мире.md",
     "Мир.md",
     "Не-ангелы.md",
     "персонажи/Наемник.md",
-    "персонажи/Ангел (возлюбленная парня).md",
-    "Персонажи.md",
-    "персонажи/Парень.md",
-    "Ангелы.md",
-    "персонажи/ГГ.md"
+    "персонажи/Ангел (возлюбленная парня).md"
   ]
 }
