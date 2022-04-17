@@ -6,7 +6,7 @@
       {
         "id": "6e72a60eb3952b3f",
         "type": "leaf",
-        "dimension": 56.92749461593682,
+        "dimension": 54.63029432878679,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -17,11 +17,11 @@
       {
         "id": "34deb1a1aa5949cd",
         "type": "leaf",
-        "dimension": 43.07250538406318,
+        "dimension": 45.369705671213204,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Перья.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Перья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +100,12 @@
   },
   "active": "34deb1a1aa5949cd",
   "lastOpenFiles": [
-    "README.md",
-    "Скрипт.js.md",
-    "медиа/Перо.png",
     "Перья.md",
-    "Чернила.md",
     "Ангелы.md",
+    "README.md",
+    "media/Pero.png",
+    "Скрипт.js.md",
+    "Чернила.md",
     "Текст о мире.md",
     "Мир.md",
     "Не-ангелы.md",
