@@ -6,7 +6,6 @@
       {
         "id": "6e72a60eb3952b3f",
         "type": "leaf",
-        "dimension": 54.63029432878679,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -15,13 +14,12 @@
         }
       },
       {
-        "id": "34deb1a1aa5949cd",
+        "id": "0ec085ec4bf2b949",
         "type": "leaf",
-        "dimension": 45.369705671213204,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Текст о мире.md",
+            "file": "Наемники.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167
+    "width": 299
   },
   "right": {
     "id": "98509be14b265bd5",
@@ -81,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Текст о мире.md",
+                "file": "Наемники.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +96,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "34deb1a1aa5949cd",
+  "active": "0ec085ec4bf2b949",
   "lastOpenFiles": [
-    "Текст о мире.md",
-    "Мир.md",
+    "Наемники.md",
+    "персонажи/Наемник.md",
+    "Писатели.md",
+    "Призраки.md",
     "Перья.md",
-    "Ангелы.md",
-    "README.md",
-    "media/Pero.png",
-    "Скрипт.js.md",
-    "Чернила.md",
     "Не-ангелы.md",
-    "персонажи/Наемник.md"
+    "Мир.md",
+    "Место сбора тайного общества.md",
+    "Ангелы.md",
+    "персонажи/Парень.md"
   ]
 }
