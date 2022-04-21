@@ -6,7 +6,7 @@
       {
         "id": "6e72a60eb3952b3f",
         "type": "leaf",
-        "dimension": 52.815226011102304,
+        "dimension": 54.16336241078509,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -17,11 +17,11 @@
       {
         "id": "0ec085ec4bf2b949",
         "type": "leaf",
-        "dimension": 47.184773988897696,
+        "dimension": 45.83663758921491,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Не-ангелы.md",
+            "file": "персонажи/Ангел (возлюбленная парня).md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Не-ангелы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +97,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0ec085ec4bf2b949",
+  "active": "6e72a60eb3952b3f",
   "lastOpenFiles": [
+    "персонажи/Ангел (возлюбленная парня).md",
+    "Ангелы.md",
+    "медиа/Ангел.png",
+    "персонажи/Парень.md",
+    "Перья.md",
+    "диалоги/Парень И девушка о появлении девушки.md",
     "Не-ангелы.md",
     "Текст о мире.md",
-    "Перья.md",
     "Чернила.md",
-    "README.md",
-    "Мир.md",
-    "Эрмитаж.md",
-    "медиа/Эрмитаж.png",
-    "Наемники.md",
-    "персонажи/Наемник.md"
+    "README.md"
   ]
 }
