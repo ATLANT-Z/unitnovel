@@ -6,7 +6,6 @@
       {
         "id": "6e72a60eb3952b3f",
         "type": "leaf",
-        "dimension": 44.09199048374306,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -15,13 +14,12 @@
         }
       },
       {
-        "id": "0ec085ec4bf2b949",
+        "id": "95d830679d0482ae",
         "type": "leaf",
-        "dimension": 55.90800951625694,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ангелы.md",
+            "file": "Не-ангелы.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 334
   },
   "right": {
     "id": "98509be14b265bd5",
@@ -81,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Не-ангелы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +94,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274
   },
-  "active": "6e72a60eb3952b3f",
+  "active": "95d830679d0482ae",
   "lastOpenFiles": [
-    "Ангелы.md",
-    "персонажи/Ангел (возлюбленная парня).md",
-    "медиа/Ангелы.png",
-    "Текст о мире.md",
-    "Чернила.md",
-    "README.md",
+    "Не-ангелы.md",
+    "персонажи/Парень.md",
     "Эрмитаж.md",
-    "Призраки.md",
+    "Место сбора тайного общества.md",
+    "Ангелы.md",
     "Писатели.md",
-    "Перья.md"
+    "Призраки.md",
+    "Перья.md",
+    "Без названия.md",
+    "Тайное Общество - Отдел преследования.md"
   ]
 }
